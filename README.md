@@ -20,11 +20,11 @@ This project provides a Python-based tool for performing image steganography, en
 ## Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/sam-francis06/steganography-project-aicte-edunet-ibm-cybersecurity-internship-2025.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <your-repo-name>
+   cd steganography-project-aicte-edunet-ibm-cybersecurity-internship-2025
    ```
 3. Install the required dependencies:
    ```bash
@@ -104,4 +104,4 @@ Contributions are welcome! Please submit a pull request or open an issue on GitH
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or support, please open an issue on the GitHub repository or contact the maintainer at [your-email@example.com].
+For questions or support, please open an issue on the GitHub repository or contact the maintainer at francissamuvel06@gmail.com .
